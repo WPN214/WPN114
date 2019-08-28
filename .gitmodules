@@ -1,9 +1,0 @@
-[submodule "WPN114-audio"]
-	path = WPN114-audio
-	url = https://github.com/WPN214/WPN114-audio
-[submodule "WPN114-midi"]
-	path = WPN114-midi
-	url = https://github.com/WPN214/WPN114-midi
-[submodule "WPN114-network"]
-	path = WPN114-network
-	url = https://github.com/WPN214/WPN114-network
