@@ -1,0 +1,33 @@
+[submodule "wpn114audio"]
+	path = wpn114audio
+	url = https://github.com/WPN214/wpn114audio
+[submodule "wpn114network"]
+	path = wpn114network
+	url = https://github.com/WPN214/wpn114network
+[submodule "wpn114spatial"]
+	path = wpn114spatial
+	url = https://github.com/WPN214/wpn114spatial
+[submodule "wpn114time"]
+	path = wpn114time
+	url = https://github.com/WPN214/wpn114time
+[submodule "wpn114sampling"]
+	path = wpn114sampling
+	url = https://github.com/WPN214/wpn114sampling
+[submodule "wpn114synthesis"]
+	path = wpn114synthesis
+	url = https://github.com/WPN214/wpn114synthesis
+[submodule "wpn114plugins"]
+	path = wpn114plugins
+	url = https://github.com/WPN214/wpn114plugins
+[submodule "wpn114devices"]
+	path = wpn114devices
+	url = https://github.com/WPN214/wpn114devices
+[submodule "wpn114fft"]
+	path = wpn114fft
+	url = https://github.com/WPN214/wpn114fft
+[submodule "wpn114js"]
+	path = wpn114js
+	url = https://github.com/WPN214/wpn114js
+[submodule "wpn114utilities"]
+	path = wpn114utilities
+	url = https://github.com/WPN214/wpn114utilities
